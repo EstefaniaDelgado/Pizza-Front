@@ -92,10 +92,6 @@ main{
     align-self: flex-start;
 }
 
-.container-image-main{
-    border-radius: 10px;
-}
-
 .container-image-main img{
    width: 100%;
 }
